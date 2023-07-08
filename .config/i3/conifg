@@ -114,7 +114,7 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 
 
-# Кesize =======================================================
+# Resize =======================================================
 mode "resize" {
         bindsym j resize shrink width 10 px or 10 ppt
         bindsym k resize grow height 10 px or 10 ppt
